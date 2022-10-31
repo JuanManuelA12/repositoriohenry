@@ -1,0 +1,4 @@
+Funciones Callback
+
+Un callback es una función que será ejecutada después de que otra función haya terminado de ejecutarse.
+función dentro de una función.

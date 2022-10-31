@@ -1,0 +1,8 @@
+
+    prototype
+
+Son una forma en que los objetos heredan caracteristicas entre si.
+
+    Constructors (de Clases)
+
+Código con el cual se crea y se configura un objeto con sus propiedades.

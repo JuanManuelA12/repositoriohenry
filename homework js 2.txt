@@ -1,0 +1,5 @@
+variables: guardar el valor de algo para utilizarlo más tarde, con el texto var declaramos la variable
+Strings: es un tipo de dato que estan en modo bloques de texto, se escriben entre comillas simple o doble
+Funciones (argumentos, return): finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función 
+Declaraciones if: es un comando condicional para que nuestra funcion verifique si algo es verdadero o falso
+Valores booleanos (true, false): es un tipo de dato para significar si una variable es verdadera o falsa

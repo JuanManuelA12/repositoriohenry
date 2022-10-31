@@ -1,0 +1,13 @@
+
+    for
+
+Los bucles sirven para simplificar la escritura de código y no repetirlos, los bucles se ejecutan varias veces.
+
+El bucle for se utiliza cuando sabemos el numero de veces que se va ejecutar, se deber fijar que en numero va iniciar la variable 0 o 1, se debe escribir la condicion que se debe escribir para que continue el bucle,
+y ademas la condicion de que termine la ejecucón del bucle.
+
+    &&, ||, !
+
+Los operadores lógicos and y or comparan valores booleanos y devuelven respuestas booleanas.
+
+Los operadores lógico: && el resultado es verdadero si ambas expresiones son verdaderas y || el resultado es verdadero si alguna expresión es verdadera

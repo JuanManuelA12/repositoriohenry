@@ -1,0 +1,13 @@
+Objetos: Son unidades con multiples propiedades o caracteristicas Ej: Tasa Blanca, Grande, Con dibujo de perro, Cuadrada, De plástico.
+    
+Propiedades: son los atributos o valores de los objetos. 
+
+Métodos: Es una funcion la cual es una propiedad del objeto.
+    
+Bucle for...in:La instrucción for...in itera una variable especificada sobre todas las propiedades de un objeto. Para cada propiedad distinta, JavaScript ejecuta las instrucciones especificadas.
+    
+Notación de puntos vs notación de corchetes:
+
+La notación con corchetes es una forma de acceder a una propiedad de un objeto. Para usar esta notación, escribe el nombre del objeto seguido de corchetes []. Dentro de los corchetes, escribe el nombre de la propiedad como una string.
+
+La notación con punto, puede usarse con variables. Si usas una variable con notación con corchetes, la variable debe hacer referencia a una string. 

@@ -1,0 +1,3 @@
+Explicación de Arrays:
+
+Los arreglos son una colección de datos que se usan para guardar muchos valores en una sola variable.
